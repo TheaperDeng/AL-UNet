@@ -1,0 +1,6 @@
+image,mask
+../image-example/image\t18-01516_98.png,../image-example/mask\t18-01516_98-mask.png
+../image-example/image\t18-01516_55.png,../image-example/mask\t18-01516_55-mask.png
+../image-example/image\t18-01516_471.png,../image-example/mask\t18-01516_471-mask.png
+../image-example/image\t18-01516_492.png,../image-example/mask\t18-01516_492-mask.png
+../image-example/image\t18-01516_71.png,../image-example/mask\t18-01516_71-mask.png
